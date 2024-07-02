@@ -50,7 +50,7 @@ class Solution {
     }
 }
 
-INCORECT ATTEMPT
+INCORRECT ATTEMPT
 class Solution {
     public String alphabetBoardPath(String target) {
         int startRowIndex = 0;
